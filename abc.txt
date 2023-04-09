@@ -1,1 +1,3 @@
 hello my name is Anupam
+git config --global user.email <email id used for git>
+git config --global user.name <name used for git>
